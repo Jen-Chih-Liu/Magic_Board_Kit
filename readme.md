@@ -17,3 +17,4 @@ This repository contains various files and folders organized into four main cate
   - **LCDView:** Includes project files for LCDView tool.
   - **Touch View:** Contains the calibration program for the touch interface.
 
+The License code is SPDX-License-Identifier: Apache-2.0
